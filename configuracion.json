@@ -1,0 +1,15 @@
+{
+    "nombre_plataforma": "EduMedia Platform",
+    "version": "1.0.0",
+    "idioma": "es",
+    "max_recursos_por_curso": 50,
+    "formatos_permitidos": [
+        "txt",
+        "pdf",
+        "mp3",
+        "mp4",
+        "jpg",
+        "png"
+    ],
+    "tema": "oscuro"
+}
