@@ -182,10 +182,10 @@ class RecursoAudio(RecursoMultimedia):
 ### Formatos gestionados
 
 | Formato | Archivo | Módulo Python | Uso |
-|---|---|---|---|
-| TXT | `cursos.txt` | `open()` / `read()` | Resumen legible de cursos |
-| CSV | `recursos.csv` | `csv.DictWriter/Reader` | Exportación tabular de recursos |
-| JSON | `configuracion.json` | `json.dump/load` | Config y preferencias estructuradas |
+|---------|---------|---------------|-----|
+| TXT     | `cursos.txt` | `open()` / `read()` | Resumen legible de cursos |
+| CSV     | `recursos.csv` | `csv.DictWriter/Reader` | Exportación tabular de recursos |
+| JSON    | `configuracion.json` | `json.dump/load` | Config y preferencias estructuradas |
 
 ### Apertura segura con `with`
 
